@@ -4,7 +4,7 @@ module.exports.config = {
 	hasPermssion: 1,
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Rename your group",
-	commandCategory: "box", 
+	commandCategory: "addmin", 
 	usages: "groupname [name]", 
 	cooldowns: 0,
 	dependencies: [] 
