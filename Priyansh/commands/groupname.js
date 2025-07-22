@@ -4,7 +4,7 @@ module.exports.config = {
 	hasPermssion: 0,
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Rename your group",
-	commandCategory: "Box", 
+	commandCategory: "admin", 
 	usages: "groupname [name]", 
 	cooldowns: 0,
 	dependencies: [] 
